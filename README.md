@@ -35,7 +35,7 @@ The assessment was conducted using a black-box approach with authorized testing,
 The assessment identified moderate information exposure risks, mainly related to public user enumeration, while critical attack paths such as XML-RPC multicall abuse and brute-force amplification were effectively mitigated by rate limiting and WAF protections.
 
 ## Report
-The full case study is available in the `reports/` directory.
+The full case study is available in the repository as a PDF titled Application_Security_Assessment_Report
 
 ## Learning Goals
 This project was developed as part of an AppSec learning path focused on:
